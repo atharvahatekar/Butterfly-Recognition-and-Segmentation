@@ -1,4 +1,4 @@
-### Butterfly Segmentation In Wild 🦋
+### Butterfly Segmentation  🦋
 ___
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
